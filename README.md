@@ -14,3 +14,9 @@
 10. Jalankan perintah `php artisan migrate && php artisan db:seed && php artisan key:generate && php artisan serve` pada git bash.
 11. Buka website pada "localhost:8000" di browser.
 12. Untuk mengedit, download dan install [vscode](https://code.visualstudio.com/download), lalu jalankan perintah `code .` pada git bash.
+
+
+### 📝 Sertificate 
+<p align="center">
+<img src="https://github.com/zulhamf11/Himfest-SourceCode-Updated-/blob/master/committee.png" width="650" height="50%"> 
+</p>
